@@ -2,7 +2,7 @@
 
 ## Aim:
 
-Synthesize 32 Bit ALU design using Constraints and analyse area and Power reports.
+Synthesize 32 Bit ALU design using Constraints and analyse area and Power reports. 
 
 ## Tool Required:
 
